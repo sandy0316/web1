@@ -1,0 +1,10 @@
+.spine{
+  background-color: #B4F0B4
+}
+.spine td:last-of-type {
+  background-color: #98DFFF
+}
+
+#mouse{
+    color:yellow;
+}

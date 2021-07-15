@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
+
+
+img{
+    width : 200px;
+    margin : auto;
+    display : block;
+}
+
+.menu{
+    display: inline-block;
+    text-align: center;
+    width: 180px;
+    height: 50px;
+    line-height: 50px;
+    background-color: #e1e1e1;
+    letter-spacing: normal;
+}
+
+
+
+#grid{
+    border:5px solid pink;
+    display: grid;
+    grid-template-columns: 450px 1fr;
+}
